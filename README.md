@@ -11,3 +11,6 @@ This repository contains a collection of projects which relate to the data.
 ## Python_Projects
 1. [California_housing_price_prediction_using_Python](https://github.com/Adinarayana7008/California_housing_price_prediction_using_Python)
 2. [Chess_Problem_using_Python](https://github.com/Adinarayana7008/Chess_Problem_using_Python)
+
+## PowerBI_Projects
+1. [Adventure_Sales_Dashboard_using_PowerBI](https://github.com/Adinarayana7008/Adventure_Sales_Dashboard_using_PowerBI/tree/main)
