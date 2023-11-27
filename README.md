@@ -10,3 +10,4 @@ This repository contains a collection of projects which relate to the data.
 
 ## Python_Projects
 1. [California_housing_price_prediction_using_Python](https://github.com/Adinarayana7008/California_housing_price_prediction_using_Python)
+2. [Chess_Problem_using_Python](https://github.com/Adinarayana7008/Chess_Problem_using_Python)
