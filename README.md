@@ -14,3 +14,6 @@ This repository contains a collection of projects which relate to the data.
 
 ## PowerBI_Projects
 1. [Adventure_Sales_Dashboard_using_PowerBI](https://github.com/Adinarayana7008/Adventure_Sales_Dashboard_using_PowerBI/tree/main)
+
+## Cloud(AWS&Snowflake)_Projects
+1. [Integrating_AWS_S3_data_with_the_Snowflake_database](https://github.com/Adinarayana7008/Integrating_AWS_S3_data_with_the_Snowflake_database)
