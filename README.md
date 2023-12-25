@@ -17,3 +17,4 @@ This repository contains a collection of projects which relate to the data.
 
 ## Cloud(AWS&Snowflake)_Projects
 1. [Integrating_AWS_S3_data_with_the_Snowflake_database](https://github.com/Adinarayana7008/Integrating_AWS_S3_data_with_the_Snowflake_database)
+2. [Change_data_capture_MySQL_to_Athena](https://github.com/Adinarayana7008/Change_data_capture_MySQL_to_Athena) 
